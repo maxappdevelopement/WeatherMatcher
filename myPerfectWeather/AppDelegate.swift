@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  myPerfectWeather
 //
-//  Created by Max Friman on 2019-02-12.
+//  Created by Max Friman on 2019-03-01.
 //  Copyright © 2019 Max Friman. All rights reserved.
 //
 
